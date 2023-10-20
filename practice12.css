@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New';
+}
+
+h1 {
+    color: #1b74e4;
+}
+
+#sb {
+    background-color: black;
+    color: white;
+}
+
+.b1 {
+    background-color: aqua;
+}
